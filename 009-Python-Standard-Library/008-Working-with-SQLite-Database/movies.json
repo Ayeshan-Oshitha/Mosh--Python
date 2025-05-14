@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Terminator", "year": 1989 },
+  { "id": 2, "title": "Kindergarten Cop", "year": 1993 },
+  { "id": 3, "title": "Predator", "year": 1987 },
+  { "id": 4, "title": "Total Recall", "year": 1990 },
+  { "id": 5, "title": "True Lies", "year": 1994 }
+]
